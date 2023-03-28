@@ -1,0 +1,40 @@
+body {
+    background: url("img/luke-chesser-eICUFSeirc0-unsplash.jpg") no-repeat center center fixed;
+    background-size: cover;
+    color: white;
+
+}
+p{
+    font-size: 50px;
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.container{
+    /* border: 2px solid rgb(255, 95, 226); */
+    max-width: 1429px;
+    /* box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.3); */
+    padding: 10px;
+    border-radius: 4px;
+}
+.other-degree{
+    width: 50%;
+}
+
+.main-form{
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.fas{
+    cursor: pointer;
+    color:  rgb(233, 0, 0);
+}
+
+.fas:hover{
+    cursor: pointer;
+    color:  rgb(221, 255, 0);
+}
+
+
+
